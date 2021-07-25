@@ -1,0 +1,26 @@
+@import 'https://fonts.googleapis.com/css?family=Montserrat:300, 400, 700&display=swap';
+body{
+	background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(https://img.freepik.com/free-photo/doctor-with-stethoscope-hands-hospital-background_1423-1.jpg?size=626&ext=jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.login-box{
+	max-width:700px;
+	float:none;
+	margin:150px auto;
+}
+
+.login-left{
+	background:rgba(211,211,211,0.5);
+	padding:30px;
+}
+
+.login-right{
+	background:#fff;
+	padding:30px;
+}
+
+.form-control{
+	background-color:transparent !important;
+}
